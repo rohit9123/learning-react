@@ -1,0 +1,19 @@
+{
+  "name": "lerning-react",
+  "version": "1.0.0",
+  "description": "learning-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit9123/learning-react.git"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit9123/learning-react/issues"
+  },
+  "homepage": "https://github.com/rohit9123/learning-react#readme"
+}
